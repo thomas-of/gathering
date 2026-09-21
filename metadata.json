@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix 約束のあの場所で 一号",
+  "description": "到着したい時刻と各人の到達にかかる時間から、同時に到着するための出発予定時刻を計算して箇条書き出力するツール",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
